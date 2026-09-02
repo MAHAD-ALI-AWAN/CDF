@@ -40,17 +40,14 @@ Concurrently, to bridge advanced industry gaps, I invested time in **full-stack 
 
 
 
-
-
 ### B. Cybersecurity & Penetration Testing
 
 * **Active Hands-On Training:** Maintained rigorous, continuous practical training in network security and web vulnerability assessments via TryHackMe.
+* **Live Practice Stats:** [TryHackMe Stats](https://raw.githubusercontent.com/Azid-ops/Azid-ops/main/.github/workflows/Assets/Untitled.png)
 * **Official TryHackMe Certificates:**
 * Completed specialized security modules and earned verified industry certificates:
 * [Advent Of Cyber](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-67AURRJUJQ.pdf)
 * [Web Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WFDC5XIPEI.pdf)
-
-
 
 
 
