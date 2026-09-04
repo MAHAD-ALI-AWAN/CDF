@@ -73,7 +73,7 @@ The following live applications and technical resources demonstrate my practical
 ## 5. Verification & Source Code
 
 * **Venture Web Presence:** [https://bytebuild.org/](https://bytebuild.org/)
-* **GitHub Profile & Repositories:** [https://github.com/MAHAD-ALI-AWAN](https://github.com/Azid-ops) (Contains project code repositories and version-controlled development histories).
+* **GitHub Profile & Repositories:** [https://github.com/MAHAD-ALI-AWAN](https://github.com/MAHAD-ALI-AWAN) (Contains project code repositories and version-controlled development histories).
 * **Credential IDs:** All Coursera and TryHackMe completion links are publicly verifiable via the provided URLs.
 
 ---
