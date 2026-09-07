@@ -1,0 +1,304 @@
+# Career Development File (CDF)
+## Statement Regarding Career Transition and Professional Development
+
+**Applicant:** MAHAD ALI AWAN   
+**Proposed Institution:** Curtin University, Australia  
+**Proposed Course:** Master of Information Systems and Technology
+**Professional Development Period:** 1 August 2025 – 31 August 2026
+
+---
+
+## 1. Purpose of This Document
+
+This Career Development File provides a chronological account of my education, professional employment, career transition, technical upskilling, certifications, practical projects, and preparation for postgraduate study.
+
+The period from 1 August 2025 to 31 August 2026 represents a deliberate career-transition and professional-development period. Following approximately two years of professional experience as a Software Engineer, I decided to move toward a specialised career in cybersecurity, with a particular interest in networking, cloud technologies, application security, and infrastructure security.
+
+This document is intended to explain the purpose and activities of this period and demonstrate the progression from my previous education and professional experience toward my proposed postgraduate study at Murdoch University.
+
+---
+
+## 2. Academic Background
+
+### Bachelor of Science in Computer Science
+
+- **Degree:** Bachelor of Science in Computer Science
+- **Start:** 2018
+- **Completion:** August 2023
+
+My undergraduate education in Computer Science provided me with a foundation in programming, software development, databases, computer systems, and other core areas of information technology.
+
+This academic foundation subsequently supported my professional work as a Software Engineer and has also provided the basis for my transition toward cybersecurity.
+
+---
+
+## 3. Professional Employment
+
+### Software Engineer
+
+- **Employment Start:** August 2023
+- **Employment End:** 1 August 2025
+- **Role:** Software Engineer
+
+Following completion of my bachelor's degree, I entered professional employment as a Software Engineer.
+
+My responsibilities primarily involved:
+
+- Frontend web application development
+- Backend development
+- Development and maintenance of web applications
+- Database management
+- Working with backend services and application infrastructure
+- Implementing and maintaining application features
+- Debugging and troubleshooting software issues
+
+### Technologies Used
+
+During my professional employment, I worked with technologies including:
+
+- Next.js
+- NestJS
+- CockroachDB
+- MongoDB
+- MySQL
+- Firebase
+- Visual Studio Code and related development tools
+
+This professional experience gave me practical exposure to how applications, backend services, databases, and supporting infrastructure interact.
+
+It also helped me recognise the importance of security throughout the software-development lifecycle. As my experience increased, I became increasingly interested in areas such as application security, data security, cloud security, network security, and the protection of IT infrastructure.
+
+---
+
+## 4. Reason for Leaving Employment
+
+After approximately two years of professional experience, I reassessed my long-term career direction and decided that I wanted to move from general software development toward a more specialised career in cybersecurity and related cloud and infrastructure technologies.
+
+I therefore made a deliberate decision to leave my employment on 1 August 2025 and use the subsequent period for structured technical learning, practical cybersecurity training, professional certifications, projects, and preparation for postgraduate study.
+
+This was not a period of inactivity. It was a planned career-transition period during which I focused on developing the knowledge and practical skills necessary to make a more informed transition into cybersecurity.
+
+---
+
+# 5. Career Transition and Professional Development Timeline
+
+## August – November 2025: Beginning the Cybersecurity Transition
+
+After leaving my Software Engineer position, I began focusing more directly on cybersecurity and strengthening my technical foundations.
+
+### Web Fundamentals
+- **Completed:** 2 November 2025
+- **Certificate:** [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WFDC5XIPEI.pdf)
+
+This provided foundational knowledge relevant to understanding how modern web applications operate and the technical concepts that underpin web security.
+
+---
+
+## December 2025: Practical Cybersecurity Exposure
+
+### Advent of Cyber
+- **Completed:** December 2025
+- **Certificate:** [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-67AURRJUJQ.pdf)
+
+I completed the Advent of Cyber learning program to gain broader practical exposure to cybersecurity concepts and hands-on security challenges.
+
+This helped me move beyond my previous software-development focus and develop a stronger understanding of cybersecurity as a specialised field.
+
+---
+
+## January – April 2026: Structured CCEP Preparation and Practical Development
+
+### Cybersecurity Project
+- **Start:** 4 January 2026
+- **End:** 9 April 2026
+- **Website:** [Access Website](https://celadon-axolotl-f93d39.netlify.app/)
+
+> [!WARNING]
+> **Note:** Website must be opened on a desktop because it is not mobile-friendly.
+
+I undertook a structured preparation project associated with the Certified Cloud Code Professional (CCEP) pathway.
+
+The project involved continued technical learning and practical development related to cloud and security concepts.
+
+### Certified Cloud Code Professional (CCEP)
+- **Certification:** 22 February 2026
+- [Exam Certificate](https://raw.githubusercontent.com/MAHAD-ALI-AWAN/CDF/main/exam.jpeg)
+
+I completed the Certified Cloud Code Professional certification as part of my broader effort to develop knowledge connecting cloud technologies, software development, and security.
+
+The certification and associated preparation complemented my previous experience as a Software Engineer while helping me move toward cloud- and security-oriented technologies.
+
+---
+
+## Ongoing Cybersecurity Practice: TryHackMe
+
+Throughout my professional-development period, I maintained consistent hands-on cybersecurity practice through TryHackMe.
+
+My progress included:
+
+- **232 rooms completed**
+- **Top 1% ranking**
+- **Rank:** approximately 15,563
+- **Learning streak:** 281 days
+- **TryHackMe Profile:** [View Profile](https://tryhackme.com/p/MAHADALIAWAN)
+
+This sustained activity was an important part of my career transition because it provided practical exposure to cybersecurity concepts and challenges rather than relying solely on theoretical courses or certificates.
+
+My continued engagement also helped me identify the areas of cybersecurity that I would like to study at a deeper academic and professional level.
+
+---
+
+# 6. Cloud, Infrastructure and DevOps Development
+
+As I developed my cybersecurity interests, I recognised that modern cybersecurity is closely connected to cloud environments, application infrastructure, containers, networking, and deployment practices.
+
+I therefore expanded my learning beyond cybersecurity fundamentals to include cloud and infrastructure technologies.
+
+### AWS Foundations
+- **Completed:** 31 May 2026
+- **Provider:** Pluralsight
+- **Certificate:** [View Certificate](https://github.com/MAHAD-ALI-AWAN/CDF/blob/main/cert%231.pdf)
+
+### AWS Cloud Practitioner
+- **Completed:** 1 June 2026
+- **Certificate:** [View Certificate](https://github.com/MAHAD-ALI-AWAN/CDF/blob/main/cert%232.pdf)
+
+### Move an Application to AWS
+- **Completed:** 5 June 2026
+- **Certificate:** [View Certificate](https://github.com/MAHAD-ALI-AWAN/CDF/blob/main/cert%233.pdf)
+
+This provided practical exposure to deploying and moving applications within a cloud environment.
+
+### NestJS
+- **Completed:** 5 June 2026
+- **Certificate:** [View Certificate](https://github.com/MAHAD-ALI-AWAN/CDF/blob/main/nestjs-starter.pdf)
+
+This complemented my previous backend development experience and helped maintain my software engineering skills.
+
+### IBM Introduction to Containers
+- **Completed:** 10 June 2026
+- **Certificate:** [View Certificate](https://coursera.org/share/07b72c6ebf883fe818c8987912b9d013)
+
+### Introduction to GitHub — Duke University
+- **Completed:** 11 June 2026
+- **Certificate:** [View Certificate](https://coursera.org/share/cea271018e931e8dd90da635e663bc2a)
+
+### Kubernetes with Helm Charts
+- **Completed:** 12 June 2026
+- **Certificate:** [View Certificate](https://coursera.org/share/2ffe8432af82ff173be058663ba82e25)
+
+### SQL Foundations — Microsoft
+- **Completed:** 13 June 2026
+- **Certificate:** [View Certificate](https://coursera.org/share/8782de0ca77aba1fa5f408eb14e865d4)
+
+### DevOps Prerequisites — KodeKloud
+- **Completed:** 15 June 2026
+- **Certificate:** [View Certificate](https://coursera.org/share/de1b6e977250abadb1c6a0b0774279d0)
+
+These learning activities helped me understand the broader technical environment in which modern applications and security controls operate.
+
+In particular, my cloud, container, Kubernetes, and DevOps learning strengthened the connection between my existing software-development background and my intended future specialisation in cybersecurity.
+
+---
+
+# 7. Continued Software Engineering Development
+
+Although my primary career direction shifted toward cybersecurity, I continued developing my software engineering knowledge because I consider software development to be an important foundation for application and cloud security.
+
+### Design Patterns Web Application
+- **Start:** 22 July 2026
+- **End:** 20 August 2026
+- **Website:** [Access Website](https://rococo-bienenstitch-1f0d1d.netlify.app/)
+> [!WARNING]
+> **Note:** Website must be opened on a desktop because it is not mobile-friendly.
+
+This project allowed me to further apply software design and development principles and maintain the technical skills developed during my professional employment.
+
+Maintaining these skills is relevant to my intended cybersecurity pathway because secure software development, application architecture, backend services, databases, and cloud infrastructure are closely connected to modern application security.
+
+---
+
+# 8. English Language and Postgraduate Preparation
+
+### PTE Examination
+- **Completed:** 31 May 2026
+
+I completed the PTE examination as part of my preparation for postgraduate study in Australia.
+
+This formed part of my broader preparation for transitioning from professional employment and self-directed technical development into formal postgraduate education.
+
+---
+
+# 9. Consolidated Professional Development Record
+
+| Date / Period | Activity | Relevance to Career Development |
+|---|---|---|
+| August 2023 – 1 August 2025 | Software Engineer | Professional software-development experience |
+| 2 November 2025 | Web Fundamentals | Web and application foundations |
+| December 2025 | Advent of Cyber | Practical cybersecurity exposure |
+| 4 January – 9 April 2026 | CCEP preparation project | Cloud/security development |
+| 22 February 2026 | CCEP certification | Cloud/software/security development |
+| Throughout period | TryHackMe | Hands-on cybersecurity practice |
+| 31 May 2026 | AWS Foundations | Cloud fundamentals |
+| 31 May 2026 | PTE | Postgraduate study preparation |
+| 1 June 2026 | AWS Cloud Practitioner | Cloud computing fundamentals |
+| 5 June 2026 | Move an application to AWS | Practical cloud application experience |
+| 5 June 2026 | NestJS | Continued backend development |
+| 10 June 2026 | IBM Introduction to Containers | Container technologies |
+| 11 June 2026 | Duke University Introduction to GitHub | Version control and collaboration |
+| 12 June 2026 | Kubernetes with Helm Charts | Container orchestration/infrastructure |
+| 13 June 2026 | SQL Foundations — Microsoft | Database knowledge |
+| 15 June 2026 | DevOps Prerequisites — KodeKloud | Development/infrastructure practices |
+| 22 July – 20 August 2026 | Design Patterns Web Application | Software engineering and application design |
+
+---
+
+# 10. Why the Development Period Was Important
+
+My decision to leave employment was made to allow me to reassess my career direction and build a stronger foundation in the area in which I wanted to specialise.
+
+My previous experience was primarily in software engineering. Through this work, I gained practical knowledge of frontend and backend development, databases, application architecture, and software development.
+
+During my subsequent professional-development period, I deliberately broadened this foundation into cybersecurity, cloud computing, infrastructure, containers, Kubernetes, DevOps, and related technologies.
+
+This progression helped me understand that cybersecurity is not an isolated discipline. It is closely connected to software development, databases, cloud infrastructure, networks, deployment processes, and the architecture of IT systems.
+
+My hands-on cybersecurity activity through TryHackMe, together with my certifications, technical courses, and projects, gave me practical exposure to the field and helped confirm that cybersecurity is the direction in which I want to specialise.
+
+---
+
+# 11. Why Formal Postgraduate Study Is the Next Step
+
+The self-directed training and practical activities I completed during this period provided me with a useful foundation. However, they also demonstrated the limitations of learning through individual courses and certifications.
+
+I now require structured postgraduate education to develop deeper and more comprehensive knowledge in areas including:
+
+- Network security
+- Information security management
+- Security architecture
+- Cyber forensics
+- Incident response
+- Advanced networking
+- Secure systems administration
+- Cybersecurity research
+- Security of modern IT infrastructure
+
+My proposed Master of Information Technology with a major in Cyber Security and Networking at Murdoch University is therefore a logical progression from my previous education, professional experience, and career-transition activities.
+
+My Bachelor of Science in Computer Science provided the academic foundation, while my Software Engineer role provided practical experience in developing and managing applications and databases. The professional-development period from August 2025 to August 2026 allowed me to explore cybersecurity and related cloud and infrastructure technologies in greater depth.
+
+---
+
+# 12. Conclusion
+
+The period from 1 August 2025 to 31 August 2026 was a deliberate and productive period of career transition and professional development.
+
+Following approximately two years of employment as a Software Engineer, I made a considered decision to move toward cybersecurity. I used the subsequent period to undertake structured learning, obtain relevant certifications, complete technical projects, develop cloud and infrastructure knowledge, and maintain sustained hands-on cybersecurity practice.
+
+My 232 completed TryHackMe rooms, top 1% ranking, 281-day learning streak, CCEP certification, AWS Cloud Practitioner certification, cloud and infrastructure training, software projects, and other learning activities demonstrate continued engagement with technical and professional development throughout this period.
+
+This experience has helped me establish a clear professional direction and has shown me that I require formal postgraduate education to progress from foundational and self-directed cybersecurity knowledge toward advanced professional capability.
+
+The Master of Information Technology with a major in Cyber Security and Networking at Murdoch University represents the next logical stage of this progression. It connects my Computer Science education, professional software engineering experience, and subsequent cybersecurity and cloud development into a coherent academic and professional pathway.
+
+Accordingly, the period between August 2025 and August 2026 should not be considered an unexplained period of inactivity. It was a purposeful period dedicated to career transition, technical upskilling, practical cybersecurity development, and preparation for postgraduate study.
