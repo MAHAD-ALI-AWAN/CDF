@@ -3,7 +3,7 @@
 
 **Applicant:** MAHAD ALI AWAN   
 **Proposed Institution:** Curtin University, Australia  
-**Proposed Course:** Master of Information Systems and Technology
+**Proposed Course:** Master of Information Systems and Technology   
 **Professional Development Period:** 1 August 2025 – 31 August 2026
 
 ---
