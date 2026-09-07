@@ -14,7 +14,7 @@ This Career Development File provides a chronological account of my education, p
 
 The period from 1 August 2025 to 31 August 2026 represents a deliberate career-transition and professional-development period. Following approximately two years of professional experience as a Software Engineer, I decided to move toward a specialised career in cybersecurity, with a particular interest in networking, cloud technologies, application security, and infrastructure security.
 
-This document is intended to explain the purpose and activities of this period and demonstrate the progression from my previous education and professional experience toward my proposed postgraduate study at Murdoch University.
+This document is intended to explain the purpose and activities of this period and demonstrate the progression from my previous education and professional experience toward my proposed postgraduate study at Curtin University.
 
 ---
 
@@ -111,6 +111,7 @@ This helped me move beyond my previous software-development focus and develop a 
 ### Cybersecurity Project
 - **Start:** 4 January 2026
 - **End:** 9 April 2026
+- **Github:**: [Access Repo](https://github.com/MAHAD-ALI-AWAN/My-Notes-App)
 - **Website:** [Access Website](https://celadon-axolotl-f93d39.netlify.app/)
 
 > [!WARNING]
@@ -283,7 +284,7 @@ I now require structured postgraduate education to develop deeper and more compr
 - Cybersecurity research
 - Security of modern IT infrastructure
 
-My proposed Master of Information Technology with a major in Cyber Security and Networking at Murdoch University is therefore a logical progression from my previous education, professional experience, and career-transition activities.
+My proposed Master of Information Technology with a major in Cyber Security and Networking at Curtin University is therefore a logical progression from my previous education, professional experience, and career-transition activities.
 
 My Bachelor of Science in Computer Science provided the academic foundation, while my Software Engineer role provided practical experience in developing and managing applications and databases. The professional-development period from August 2025 to August 2026 allowed me to explore cybersecurity and related cloud and infrastructure technologies in greater depth.
 
@@ -299,6 +300,6 @@ My 232 completed TryHackMe rooms, top 1% ranking, 281-day learning streak, CCEP 
 
 This experience has helped me establish a clear professional direction and has shown me that I require formal postgraduate education to progress from foundational and self-directed cybersecurity knowledge toward advanced professional capability.
 
-The Master of Information Technology with a major in Cyber Security and Networking at Murdoch University represents the next logical stage of this progression. It connects my Computer Science education, professional software engineering experience, and subsequent cybersecurity and cloud development into a coherent academic and professional pathway.
+The Master of Information Technology with a major in Cyber Security and Networking at Curtin University represents the next logical stage of this progression. It connects my Computer Science education, professional software engineering experience, and subsequent cybersecurity and cloud development into a coherent academic and professional pathway.
 
 Accordingly, the period between August 2025 and August 2026 should not be considered an unexplained period of inactivity. It was a purposeful period dedicated to career transition, technical upskilling, practical cybersecurity development, and preparation for postgraduate study.
